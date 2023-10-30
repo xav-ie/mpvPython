@@ -14,3 +14,7 @@ I want to enqueue multiple files and later do other cool things with python and 
 
 ** Running 
    `nix-shell`
+
+** Alternative
+   https://github.com/mpv-player/mpv/issues/8405
+   Use socat with mpv... Easier for short term, but I think that having python bindings is useful.
