@@ -1,0 +1,16 @@
+* oi oi oi
+
+Trying to get playlists working in nixos
+
+** Problem
+
+I want to enqueue multiple files and later do other cool things with python and mpv
+
+** Todo
+
+- [ ] get core playlist functionality
+- [ ] flakify
+- [ ] make MPV read from main config... does not run mpv from main config but has its own?
+
+** Running 
+   `nix-shell`
